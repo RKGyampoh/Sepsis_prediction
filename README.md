@@ -179,7 +179,7 @@ Final project/
 
 ├── requirement.txt            # List of dependencies
 
-├── Dockerfile                 # Docker configuration (optional)
+├── Dockerfile                 # Docker configuration 
 
 ├── sepsis.ipynb               # Jupyter Notebook for data analysis
 
